@@ -1,0 +1,21 @@
+# .gitignore ??API ?ㅒ룸?媛??ㅼ젙 ?쒖쇅
+
+# MCP / API keys (?덈? 而ㅻ컠 湲덉?)
+.cursor/mcp.json
+mcp.json
+**/.env
+**/.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# ?꾩떆 ?낅줈???대뜑
+adcampaign_upload/
